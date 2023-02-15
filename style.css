@@ -203,16 +203,16 @@ img {
 }
 
 #social_buttons {
-	justify-content: space-around;
-	background-color: #0a1229;
-	padding: 10px;
-	position: absolute;
-    right: 1%;
+    justify-content: space-around;
+    background-color: #0a1229;
+    padding: 8px;
+    position: absolute;
+    right: 19px;
     z-index: 1;
 }
 
 .social-button {
-	width: 20px;
+	width: 40px;
 	align-items: center;
 	padding: 10px;
 }
